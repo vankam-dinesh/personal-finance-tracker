@@ -5,7 +5,7 @@ An advanced Excel-based personal finance management system designed to help indi
 ## 📋 Overview
 
 This system solves a critical personal finance challenge: **How to understand where your money goes, control spending, and achieve financial goals through data-driven insights.**
-                                             
+                                                                                                
 The system helps you by:
 - **Dashboard Overview**: See your complete financial picture at a glance
 - **Expense Tracking**: Daily expense recording with automatic categorization
