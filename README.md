@@ -8,7 +8,7 @@ This system solves a critical personal finance challenge: **How to understand wh
                                                                                                 
 The system helps you by:
 - **Dashboard Overview**: See your complete financial picture at a glance                                                    
-- **Expense Tracking**: Daily expense recording with automatic categorization
+- **Expense Tracking**: Daily expense recording with automatic categorization                                        
 - **Income Management**: Track all income sources with date-wise details
 - **Budget Analysis**: Compare actual spending vs. budget targets
 - **Wealth Visualization**: Pie charts showing asset allocation
